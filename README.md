@@ -138,5 +138,6 @@ Screenshots of executed SQL queries are included below for verification and refe
 - GitHub: https://github.com/himanshu-kumar-verma 
 - LinkedIn:
   https://www.linkedin.com/in/himanshu-kumar-verma2003
-Email:
+
+- Email:
 himanshukumarverma719@gmail.com
