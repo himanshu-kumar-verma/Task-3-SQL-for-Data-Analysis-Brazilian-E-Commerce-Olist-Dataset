@@ -54,20 +54,8 @@ The objective of this task was to demonstrate the ability to extract meaningful 
 
 ## 📁 Project Structure
 
-Olist-SQL-Data-Analysis/
-├── dataset/
-│   └── olist_ecommerce.db
-├── sql/
-│   └── task3_olist_sql_analysis.sql
-├── screenshots/
-│   ├── select_where.png
-│   ├── groupby.png
-│   ├── join.png
-│   ├── multijoin.png
-│   ├── subquery.png
-│   ├── view.png
-│   └── index.png
-└── README.md
+
+README.md
 
 
 ## ▶️ How to Run This Project
@@ -130,7 +118,7 @@ Screenshots of executed SQL queries are included below for verification and refe
 
 ## 👤 Author
 **Himanshu Kumar Verma**  
-- GitHub: https://github.com/yourusername  
+- GitHub: https://github.com/HimanshuKumarVerma 
 - LinkedIn:
   https://www.linkedin.com/in/himanshu-kumar-verma2003
 Email:
