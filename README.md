@@ -85,7 +85,7 @@ Screenshots of executed SQL queries are included below for verification and refe
 ![SELECT Query Output](02_select+where+orderby.png)
 
 ### GROUP BY & Aggregate Query
-![GROUP BY Output](Brazilian_olist_SQL_Query_screenshots/Order_By_Status.png)
+![GROUP BY Output](Brazilian_olist_SQL_Query_Screenshots/03_Order_By_Status.png)
 
 ### JOIN Query
 ![JOIN Output](screenshots/join.png)
