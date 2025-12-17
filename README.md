@@ -82,18 +82,25 @@ Olist-SQL-Data-Analysis/
 Screenshots of executed SQL queries are included below for verification and reference.
 
 ### SELECT + WHERE + Order By Query
-![SELECT Query Output](Brazilian_olist_SQL_Query_Screenshots/02_select_where_order_by.png)
+![SELECT Query Output](Brazilian_olist_SQL_Query_Screenshots/02_Select_Where_Order_By.png)
 
 ### GROUP BY & Aggregate Query
+
+- Order By Status:
 ![GROUP BY Output](Brazilian_olist_SQL_Query_Screenshots/03_Order_By_Status.png)
 
+- Average Payment Value:
 ![GROUP BY Output](Brazilian_olist_SQL_Query_Screenshots/04_Average_Payment_Value.png)
 
 ### JOIN Query
+
+- Inner Join:
 ![JOIN Output](Brazilian_olist_SQL_Query_Screenshots/05_Inner_Join.png)
 
+- Left Join:
 ![JOIN Output](Brazilian_olist_SQL_Query_Screenshots/06_Left_Join.png)
 
+- Multiple Join:
 ### Multiple JOIN Query
 ![Multiple JOIN Output](Brazilian_olist_SQL_Query_Screenshots/07_Multiple_Join.png)
 
