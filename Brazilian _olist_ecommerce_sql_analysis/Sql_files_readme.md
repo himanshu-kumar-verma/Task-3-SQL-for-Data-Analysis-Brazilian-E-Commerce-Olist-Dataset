@@ -1,4 +1,4 @@
-## Brazilian Olist Ecommerce Dataset
+## Brazilian Olist Ecommerce SQL files
 
 Due to GitHub's 25MB file limit, SQL Analysis files are hosted externally.
 
