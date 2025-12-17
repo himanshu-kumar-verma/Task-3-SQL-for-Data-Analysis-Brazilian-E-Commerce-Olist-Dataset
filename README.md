@@ -82,25 +82,29 @@ Olist-SQL-Data-Analysis/
 Screenshots of executed SQL queries are included below for verification and reference.
 
 ### SELECT + WHERE + Order By Query
-![SELECT Query Output](02_select+where+orderby.png)
+![SELECT Query Output](Brazilian_olist_SQL_Query_Screenshots/02_select_where_order_by.png)
 
 ### GROUP BY & Aggregate Query
 ![GROUP BY Output](Brazilian_olist_SQL_Query_Screenshots/03_Order_By_Status.png)
 
+![GROUP BY Output](Brazilian_olist_SQL_Query_Screenshots/04_Average_Payment_Value.png)
+
 ### JOIN Query
-![JOIN Output](screenshots/join.png)
+![JOIN Output](Brazilian_olist_SQL_Query_Screenshots/05_Inner_Join.png)
+
+![JOIN Output](Brazilian_olist_SQL_Query_Screenshots/06_Left_Join.png)
 
 ### Multiple JOIN Query
-![Multiple JOIN Output](screenshots/multijoin.png)
+![Multiple JOIN Output](Brazilian_olist_SQL_Query_Screenshots/07_Multiple_Join.png)
 
 ### Subquery
-![Subquery Output](screenshots/subquery.png)
+![Subquery Output](Brazilian_olist_SQL_Query_Screenshots/08_Subquery.png)
 
 ### View Creation
-![View Output](screenshots/view.png)
+![View Output](Brazilian_olist_SQL_Query_Screenshots/09_Create_view.png)
 
 ### Index Creation
-![Index Output](screenshots/index.png)
+![Index Output](Brazilian_olist_SQL_Query_Screenshots/10_Index_query.png)
 
 
 ## ✅ Results & Conclusion
