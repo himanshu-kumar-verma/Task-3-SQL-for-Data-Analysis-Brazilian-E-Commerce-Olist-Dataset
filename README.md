@@ -53,9 +53,16 @@ The objective of this task was to demonstrate the ability to extract meaningful 
 
 
 ## 📁 Project Structure
+- Brazilian_Olist_Ecommerce_Database
+ - olist_customers_dataset (1).csv
+ - olist_order_items_dataset.csv
+ - olist_order_payments_dataset.csv
+ - olist_orders_dataset.csv
+ - olist_products_dataset.csv
 
-
-README.md
+- Brazilian_olist_ecommerce_sql_analysis
+- Brazilian_olist_SQL_Query_Screenshots
+- README.md
 
 
 ## ▶️ How to Run This Project
@@ -88,7 +95,6 @@ Screenshots of executed SQL queries are included below for verification and refe
 - Left Join:
 ![JOIN Output](Brazilian_olist_SQL_Query_Screenshots/06_Left_Join.png)
 
-- Multiple Join:
 ### Multiple JOIN Query
 ![Multiple JOIN Output](Brazilian_olist_SQL_Query_Screenshots/07_Multiple_Join.png)
 
