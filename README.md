@@ -61,7 +61,18 @@ The objective of this task was to demonstrate the ability to extract meaningful 
  - olist_products_dataset.csv
 
 - Brazilian_olist_ecommerce_sql_analysis
+ - Sql_files_readme.md
 - Brazilian_olist_SQL_Query_Screenshots
+ - 01_Database_Tables.png
+ - 02_Select_Where_Order_By.png
+ - 03_Order_By_Status.png
+ - 04_Average_Payment_Value.png
+ - 05_Inner_Join.png
+ - 06_Left_Join.png
+ - 07_Multiple_Join.png
+ - 08_Subquery.png
+ - 09_Create_view.png
+ - 10_Index_query.png
 - README.md
 
 
@@ -124,7 +135,7 @@ Screenshots of executed SQL queries are included below for verification and refe
 
 ## 👤 Author
 **Himanshu Kumar Verma**  
-- GitHub: https://github.com/HimanshuKumarVerma 
+- GitHub: https://github.com/himanshu-kumar-verma 
 - LinkedIn:
   https://www.linkedin.com/in/himanshu-kumar-verma2003
 Email:
