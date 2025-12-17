@@ -81,11 +81,11 @@ Olist-SQL-Data-Analysis/
 
 Screenshots of executed SQL queries are included below for verification and reference.
 
-### SELECT & WHERE Query
-![SELECT Query Output](screenshots/select_where.png)
+### SELECT + WHERE + Order By Query
+![SELECT Query Output](02_select+where+orderby.png)
 
 ### GROUP BY & Aggregate Query
-![GROUP BY Output](screenshots/groupby.png)
+![GROUP BY Output](Brazilian_olist_SQL_Query_screenshots/Order_By_Status.png)
 
 ### JOIN Query
 ![JOIN Output](screenshots/join.png)
